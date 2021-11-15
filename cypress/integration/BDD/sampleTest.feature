@@ -6,4 +6,4 @@ Feature: Sample feature file for the test
         Given the user visits Inshur Test Website
         When they click the last user 
         Then assert
-        
+
